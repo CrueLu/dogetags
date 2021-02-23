@@ -16,7 +16,7 @@ Registered Dogetags have an **owner address**. This is the address that should r
 
 ## Initial registration
 
-If nobody has claimed a Dogetag, the Dogetag can be registered by sending a tiny amount of Dogecoin to the registry address.
+If nobody has claimed a Dogetag, the Dogetag can be registered by sending 0.00000001 Dogecoin (the smallest possible amount) to the registry address.
 
 The sender of the first deposit received by the registry address becomes the first owner of the Dogetag.
 
